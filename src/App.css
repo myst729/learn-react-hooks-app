@@ -1,0 +1,15 @@
+.todo-app {
+  margin: 0 auto;
+  padding-top: 10px;
+  max-width: 600px;
+}
+
+.todo-error,
+.todo-loading {
+  text-align: center;
+  padding: 2rem;
+}
+
+.todo-remove {
+  cursor: pointer;
+}
